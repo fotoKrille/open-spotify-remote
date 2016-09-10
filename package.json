@@ -1,6 +1,6 @@
 {
   "name": "open-spotify-remote",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Controle your Spotify app via open.spotify.com",
   "main": "index.js",
   "scripts": {
