@@ -3,7 +3,7 @@
   [![Issue Count][issue-count-image]][issue-count-url]
   
 
-Controle your Spotify app via [open.spotify.com](https://open.spotify.com)
+Connect your NodeJS app to Spotify via [open.spotify.com](https://open.spotify.com)
 
 ## Getting Started
 
