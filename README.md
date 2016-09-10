@@ -1,8 +1,5 @@
 # Open Spotify Remote
 
-[![NPM Version][npm-image]][npm-url]
-[![NPM Downloads][downloads-image]][downloads-url]
-
 Controle your Spotify app via [open.spotify.com](https://open.spotify.com)
 
 ## Getting Started
