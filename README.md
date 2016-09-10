@@ -8,6 +8,7 @@ Connect your [Node.js](https://nodejs.org) app to Spotify via [open.spotify.com]
 ## Getting Started
 
 Just install the module and try it out with some exampels :)
+You nned to have Spotify installed on the same computer where this script is running from.
 
 ### Installing
 
