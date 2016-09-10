@@ -1,3 +1,9 @@
+[![NPM Version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
+[![Linux Build][travis-image]][travis-url]
+[![Windows Build][appveyor-image]][appveyor-url]
+[![Test Coverage][coveralls-image]][coveralls-url]
+
 # Open Spotify Remote
 
 Controle your Spotify app via [open.spotify.com](https://open.spotify.com)
@@ -8,13 +14,13 @@ Just install the module and try it out with some exampels :)
 
 ### Installing
 
-```
-npm install open-spotify-remote --save
+```bash
+$ npm install open-spotify-remote --save
 ```
 
 ### Example code
 
-```
+```js
 var opr = require('open-spotify-remote');
 
 var spotify = new opr();
