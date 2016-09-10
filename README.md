@@ -1,4 +1,7 @@
 # Open Spotify Remote
+  [![Code Climate][code-climate-image]][code-climate-url]
+  [![Issue Count][issue-count-image]][issue-count-url]
+  
 
 Controle your Spotify app via [open.spotify.com](https://open.spotify.com)
 
@@ -72,3 +75,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 [chrippa](https://github.com/chrippa)
+
+[code-climate-image]: https://codeclimate.com/github/fotoKrille/open-spotify-remote/badges/gpa.svg
+[code-climate-url]:https://codeclimate.com/github/fotoKrille/open-spotify-remote
+[issue-count-image]: https://codeclimate.com/github/fotoKrille/open-spotify-remote/badges/issue_count.svg
+[issue-count-url]: https://codeclimate.com/github/fotoKrille/open-spotify-remote
