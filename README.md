@@ -1,10 +1,7 @@
+# Open Spotify Remote
+
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
-[![Linux Build][travis-image]][travis-url]
-[![Windows Build][appveyor-image]][appveyor-url]
-[![Test Coverage][coveralls-image]][coveralls-url]
-
-# Open Spotify Remote
 
 Controle your Spotify app via [open.spotify.com](https://open.spotify.com)
 
@@ -61,6 +58,9 @@ spotify.pause(true);
 
 No test avalible. :(
 
+## TODO
+* Auto connect to different port.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -75,4 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 [chrippa](https://github.com/chrippa)
-
