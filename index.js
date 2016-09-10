@@ -64,7 +64,7 @@ Spotify.prototype.playlist = function(user, playlist, track){
 Spotify.prototype._referer = function(){
     var Referer = 'https://open.spotify.com';
 
-    if(this._playOrPlaylist == false){
+    if(this._playOrPlaylist === false){
         Referer += '/track/' + this._track;
     }else{
         Referer += '/user/' + this._user + '/playlist/' + this._playlist
@@ -74,7 +74,7 @@ Spotify.prototype._referer = function(){
 
 Spotify.prototype.status = function(){
     var self = this;
-    if(this._playOrPlaylist != null){
+    if(this._playOrPlaylist !== null){
         this._call('/remote/status.json', {Referer: this._referer()}, true, false, {
             returnafter: 1,
             returnon: DEFAULT_RETURN_ON.join(','),
@@ -127,7 +127,7 @@ Spotify.prototype._call = function(path, headers, authed, raise_error, params, c
             throw new Error(error);
         }
 
-        if(response.statusCode != 200){
+        if(response.statusCode !== 200){
             return self.emit('error', 'Unable to connect to client');
         }
 

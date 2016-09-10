@@ -1,6 +1,6 @@
 {
-  "name": "spotify-remote",
-  "version": "1.0.0",
+  "name": "open-spotify-remote",
+  "version": "1.0.1",
   "description": "Remote controle your Spotify app.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fotoKrille/spotify-remote.git"
+    "url": "git+https://github.com/fotoKrille/open-spotify-remote.git"
   },
   "keywords": [
     "spotify",
@@ -17,9 +17,9 @@
   "author": "Krister Johansson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fotoKrille/spotify-remote/issues"
+    "url": "https://github.com/fotoKrille/open-spotify-remote/issues"
   },
-  "homepage": "https://github.com/fotoKrille/spotify-remote#readme",
+  "homepage": "https://github.com/fotoKrille/open-spotify-remote#readme",
   "dependencies": {
     "request": "^2.74.0"
   }
