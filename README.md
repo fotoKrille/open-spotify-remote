@@ -3,7 +3,7 @@
   [![Issue Count][issue-count-image]][issue-count-url]
   
 
-Connect your NodeJS app to Spotify via [open.spotify.com](https://open.spotify.com)
+Connect your [Node.js](https://nodejs.org) app to Spotify via [open.spotify.com](https://open.spotify.com)
 
 ## Getting Started
 
