@@ -15,15 +15,15 @@ $ npm install open-spotify-remote --save
 ### Example code
 
 ```js
-var opr = require('open-spotify-remote');
+var osr = require('open-spotify-remote');
 
-var spotify = new opr();
+var spotify = new osr();
 
 spotify.connect();
 
 spotify.on('connected', function() {
     // Play one song over and over
-    play(track)
+    //play(track)
     spotify.play("1LVQ5LsVHxpgnY7VAyLjCR");
     
     // Play a album
